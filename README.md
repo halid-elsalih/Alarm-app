@@ -1,0 +1,1 @@
+An alarm application: In this application, you write a task that you will do or a reminder for something, then you specify the time and date at which the alarm will ring, and you choose the time of the ringtone, and the alarm will ring at the specified time and date and on the specified tone.
